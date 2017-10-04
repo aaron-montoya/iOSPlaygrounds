@@ -10,7 +10,7 @@ public class SimpleClass
     
     public init()
     {
-        name = "My name is ......."
+        self.name = "My name is ......."
     }
     
     public func getName() -> String
